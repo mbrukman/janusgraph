@@ -90,6 +90,8 @@ The following users have deployed JanusGraph in production.
 
 * [CELUM](https://www.celum.com/) - [use case and system architecture](https://www.celum.com/en/graph-driven-and-reactive-architecture)
 * [FiNC](https://finc.com)
+* [Firekart](https://www.firekart.com) -
+  [BusinessGraph use case](https://www.firekart.com/soa/home/view/businessGraph.html)
 * [G DATA](https://gdatasoftware.com)
 * [Netflix](https://www.netflix.com) -
   [video](https://youtu.be/KSmAdtMJYEo?t=1h2m17s) and
