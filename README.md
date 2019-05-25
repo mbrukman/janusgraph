@@ -49,6 +49,9 @@ tools:
 * Stack Overflow: see the
   [`janusgraph`](https://stackoverflow.com/questions/tagged/janusgraph) tag
 
+* LinkedIn: follow [JanusGraph](https://linkedin.com/company/janusgraph/) for news
+  and updates
+
 * Twitter: follow [@JanusGraph](https://twitter.com/JanusGraph) for news and
   updates
 
